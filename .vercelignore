@@ -1,0 +1,9 @@
+patch*.js
+test*.js
+inspect*.js
+inspect.js
+test.js
+*.html
+!index.html
+.gitignore
+GUI-Open localhost.txt
